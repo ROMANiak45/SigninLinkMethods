@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>994271072410-mks0fq86qnj04n93o3o4qtu0p831lohk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.994271072410-mks0fq86qnj04n93o3o4qtu0p831lohk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqn7-XE7zK1guk4eInmIpN4ToW0wmrq7A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>994271072410</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.romancroitor.SigninLinkMethods</string>
+	<key>PROJECT_ID</key>
+	<string>singinlinkmethods</string>
+	<key>STORAGE_BUCKET</key>
+	<string>singinlinkmethods.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:994271072410:ios:d31b598a6025c17d030f23</string>
+	<key>DATABASE_URL</key>
+	<string>https://singinlinkmethods.firebaseio.com</string>
+</dict>
+</plist>

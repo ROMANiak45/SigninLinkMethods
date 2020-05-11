@@ -1,0 +1,6 @@
+framework module Pods_SigninLinkMethodsTests {
+  umbrella header "Pods-SigninLinkMethodsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
